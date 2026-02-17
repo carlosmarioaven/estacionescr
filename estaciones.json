@@ -152,13 +152,73 @@
     {
     "name": "88 Stereo 88.7 FM",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/6HpPGZPUS4.jpg",
-    "streamURL": "https://stream4.305stream.com:9146/stream/1"
+    "streamURL": "https://stream.zeno.fm/h9vuh859bm8uv"
   },
 
     {
     "name": "IQ 97.9 FM",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/y2z6ngbnd4ml.png",
     "streamURL": "http://rtvhd.net:9942/;"
+  },
+
+  {
+    "name": "Azul 99.9 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/154/azul-999-fm.c964f3b8.jpg",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac"
+  },
+
+  {
+    "name": "Columbia Estéreo 92.7 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/A2ANeVNQfw.png",
+    "streamURL": "https://s5.radio.co/sca838cc60/listen"
+  },
+
+  {
+    "name": "Radio Centro 96.3 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/105/radio-centro-963-fm.f713bdb2.png",
+    "streamURL": "https://radio.standishco.com:8200/stream"
+  },
+
+  {
+    "name": "Reggae World",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/965/reggaeworld-fm.22a60de7.png",
+    "streamURL": "https://usa18.fastcast4u.com/proxy/frortega?mp=/1"
+  },
+
+  {
+    "name": "Colosal Stereo 88.3 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/DaayqcQquY.png",
+    "streamURL": "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8"
+  },
+
+   {
+    "name": "Los 40 104.3 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/978/los-40-costa-rica-1043-fm.fc8d71bb.png",
+    "streamURL": "https://mdstrm.com/audio/67377bb4b95cc90e1002a0fc/live.m3u8"
+  },
+
+  {
+    "name": "Radio Actual 107.1 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/uUFJnM8L4f.png",
+    "streamURL": "http://cdn4.onstream.audio:9124/actualfm"
+  },
+
+  {
+    "name": "Radio 94.7 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/nAwNLxJbnm.png",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac"
+  },
+
+  {
+    "name": "Life FM 89.5",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/KSrHUJryEt.png",
+    "streamURL": "https://radio.zarza.com/proxy/life?mp=/stream"
+  },
+
+  {
+    "name": "Radio Hit 104.7 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/164/radio-hit-1047-fm.1180f4a3.jpg",
+    "streamURL": "https://live.turadio.stream:7004/;"
   },
 
   {
