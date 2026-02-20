@@ -22,7 +22,7 @@
   {
     "name": "Monumental 93.5 FM",
     "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",
-    "streamURL": "https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8"
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/f2800be3-604f-42a3-97d3-ade0decc9082/ts:abr.m3u8"
   },
   {
     "name": "Exa 102.7 FM",
@@ -122,7 +122,7 @@
     {
     "name": "Zeta FM 95.1",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/879/zeta-fm.feb3fb70.png",
-    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/170e337e-a9eb-4ea2-aeb7-34d2f0c69b29/medialist_15609871089997455276_hls.m3u8"
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/170e337e-a9eb-4ea2-aeb7-34d2f0c69b29/ts:abr.m3u8"
   },
 
     {
