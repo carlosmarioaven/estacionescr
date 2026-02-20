@@ -221,6 +221,12 @@
     "streamURL": "https://live.turadio.stream:7004/;"
   },
 
+   {
+    "name": "Extra Radio 92.3 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/265/extra-radio-923-fm.e7e601cf.png",
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/ts:abr.m3u8"
+  },
+
   {
     "name": "Cultural La Cruz 88.3 FM",
     "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-01/radio-la-cruz-costa-rica.png.webp?itok=qTOohmka",
