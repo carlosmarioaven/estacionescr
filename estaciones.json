@@ -1,99 +1,121 @@
 [
   {
-    "name": "Radio Musical 97.5 FM",
-    "logoURL": "https://static.mytuner.mobi/media/radios-150px/085/radio-musical.fea3e089.jpg",
-    "streamURL": "https://live.turadio.stream:7005/stream"
-  },
-  {
-    "name": "Bésame 89.9 FM",
-    "logoURL": "https://static.mytuner.mobi/media/radios-150px/419/besame-costa-rica.e96b0f06.png",
-    "streamURL": "https://mdstrm.com/audio/67377c6b827a7efae2faf358/live.m3u8"
-  },
-  {
-    "name": "Stereo Visio 98.3 FM",
-    "logoURL": "https://static.mytuner.mobi/media/radios-150px/LEBrBBD7xc.png",
-    "streamURL": "https://live.turadio.stream:9984/stream"
-  },
-  {
-    "name": "Columbia 98.7 FM",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/EYDaxpE6Q4.png",
-    "streamURL": "https://s2.radio.co/s83b86382e/listen"
-  },
-  {
-    "name": "Monumental 93.5 FM",
-    "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",
-    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/f2800be3-604f-42a3-97d3-ade0decc9082/ts:abr.m3u8"
-  },
-  {
-    "name": "Exa 102.7 FM",
-    "logoURL": "https://static.mytuner.mobi/media/radios-150px/377/exa-cr.35a1dae5.jpg",
-    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/f8e910c4-1dfa-48bf-95e9-345d1a2f7097/ts:abr.m3u8"
-  },
-  {
-    "name": "Teletica Radio 91.5 FM",
-    "logoURL": "https://static.mytuner.mobi/media/radios-150px/kufrp5fqpe7v.png",
-    "streamURL": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8"
-  },
-  {
-    "name": "Radio 2 99.5",
-    "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/dos.png",
-    "streamURL": "https://s5.radio.co/sd515b7b34/listen"
-  },
-  {
-    "name": "Radio Disney 101.1 FM",
-    "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/radio-disney-costa-rica.png",
-    "streamURL": "https://29319.live.streamtheworld.com/DISNEY_CHI_SA_ADP/HLS/playlist.m3u8"
-  },
-  {
-    "name": "La mejor 99.1 FM",
-    "logoURL": "https://static.mytuner.mobi/media/radios-150px/575/la-mejor-991.95c72890.png",
-    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/d1dafe77-1b43-4143-9c6a-f4fb6ab42b60/ts:abr.m3u8"
-  },
-  {
-    "name": "88.3 FM La Voz de Talamanca",
-    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-01/radio-talamanca-costa-rica.png.webp?itok=Awq0vi-E",
-    "streamURL": "https://stream.zeno.fm/r7h1v4t5kv8uv"
-  },
-  {
-    "name": "88.3 FM Radio  Maleku",
-    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-02/radio-cultural-maleku-costa-rica.png.webp?itok=yWkd_feL",
-    "streamURL": "https://stream.zeno.fm/xmbot68yrbrtv"
-  },
-  {
-    "name": "90.3 FM Sinfonola",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/415/radio-sinfonola.79d5c3e6.png",
-    "streamURL": "https://live.turadio.stream:7006/stream"
-  },
-  {
-    "name": "Cultural Nicoyano 88.3 FM",
-    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2022-07/radio-sistema-cultural-nicoyano-costa-rica.png.webp?itok=3Lcnt1iU",
-    "streamURL": "https://stream.zeno.fm/3hu6nbg7k5zuv"
-  },
-  {
-    "name": "Cultural Pérez Zeledón 88.1FM",
-    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-06/radio-cultural-de-perez-zeledon-costarica.png.webp?itok=6o82GNhv",
-    "streamURL": "https://emisorasdigitales2.com:8038/stream"
-  },
-  {
     "name": "Cultural de Turrialba  88.3FM",
     "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2025-05/radio-cultural-turrialba-88.3fm-costa-rica.png.webp?itok=k-9SxTO3",
     "streamURL": "https://host.rowrigo.com:8150/radioculturalturrialba"
   },
+
+
   {
     "name": "Cultural Buenos Aires 88.1 FM",
     "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-05/radio-cultural-buenos-aires-88.1fm-costa-rica.png.webp?itok=OL7nqKnW",
     "streamURL": "https://stream.zeno.fm/xpttb8qc5qcuv"
   },
+
+
   {
     "name": "Cultural Corredores 88.1 FM",
     "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-01/radio-cultura-corredores-costa-rica.png.webp?itok=RSgNO800",
     "streamURL": "https://stream.zeno.fm/n2sw1ppvfa0uv"
   },
+
+  
   {
     "name": "Cultural De Puriscal 88.3 Fm",
     "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2025-03/radio-cultural-de-puriscal-88.3fm-costa-rica.png.webp?itok=-1wXtPu-",
     "streamURL": "https://stream.zeno.fm/ucos1vhzikbtv"
   },
+
+   {
+    "name": "88.3 FM La Voz de Talamanca",
+    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-01/radio-talamanca-costa-rica.png.webp?itok=Awq0vi-E",
+    "streamURL": "https://stream.zeno.fm/r7h1v4t5kv8uv"
+  },
+
+
+  {
+    "name": "88.3 FM Radio  Maleku",
+    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-02/radio-cultural-maleku-costa-rica.png.webp?itok=yWkd_feL",
+    "streamURL": "https://stream.zeno.fm/btufrmu8cm0uv"
+  },
+
+   {
+    "name": "Cultural Nicoyano 88.3 FM",
+    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2022-07/radio-sistema-cultural-nicoyano-costa-rica.png.webp?itok=3Lcnt1iU",
+    "streamURL": "https://stream.zeno.fm/3hu6nbg7k5zuv"
+  },  
+  
+  
+  {
+    "name": "Radio Musical 97.5 FM",
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/085/radio-musical.fea3e089.jpg",
+    "streamURL": "https://live.turadio.stream:7005/stream"
+  },
+
+  {
+    "name": "90.3 FM Sinfonola",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/415/radio-sinfonola.79d5c3e6.png",
+    "streamURL": "https://live.turadio.stream:7006/stream"
+  },
+
+   {
+    "name": "Monumental 93.5 FM",
+    "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/f2800be3-604f-42a3-97d3-ade0decc9082/ts:abr.m3u8"
+  },
+
+  {
+    "name": "Radio 2 99.5",
+    "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/dos.png",
+    "streamURL": "https://s5.radio.co/sd515b7b34/listen"
+  },
+
+   {
+    "name": "Radio Hit 104.7 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/164/radio-hit-1047-fm.1180f4a3.jpg",
+    "streamURL": "https://live.turadio.stream:7004/;"
+  },
+
+  {
+    "name": "Faro del Caribe 97.1 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/qudvzzQs28.png",
+    "streamURL": "https://sp.unoredcdn.net/8032/stream"
+  },
+
+  {
+    "name": "Life FM 89.5",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/KSrHUJryEt.png",
+    "streamURL": "https://radio.zarza.com/proxy/life?mp=/stream"
+  },
+
+
+  {
+    "name": "Bésame 89.9 FM",
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/419/besame-costa-rica.e96b0f06.png",
+    "streamURL": "https://mdstrm.com/audio/67377c6b827a7efae2faf358/live.m3u8"
+  },
+  
+
+  {
+    "name": "Teletica Radio 91.5 FM",
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/kufrp5fqpe7v.png",
+    "streamURL": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8"
+  },  
+
+
+  {
+    "name": "Radio Disney 101.1 FM",
+    "logoURL": "https://cdn.instant.audio/images/logos/radios-co-cr/radio-disney-costa-rica.png",
+    "streamURL": "https://29319.live.streamtheworld.com/DISNEY_CHI_SA_ADP/HLS/playlist.m3u8"
+  },
+ 
+
+  {
+    "name": "Nuevecinconueve 95.9 FM",
+    "logoURL": "https://mmo.aiircdn.com/943/63f52a962ce60.png",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_959AAC.aac"
+  },
+
 
   {
     "name": "Omega 105.1 FM",
@@ -106,56 +128,43 @@
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/166/la-caliente-907-fm.7524ad1c.png",
     "streamURL": "https://mdstrm.com/audio/672d00c08cff752b2de2dc1f/live.m3u8"
   },
+    
 
-    {
-    "name": "Faro del Caribe 97.1 FM",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/qudvzzQs28.png",
-    "streamURL": "https://sp.unoredcdn.net/8032/stream"
-  },
-
-    {
+  {
     "name": "Urbano 106",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/9XxcPp9Z9L.png",
     "streamURL": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/"
   },
+   
 
-    {
-    "name": "Zeta FM 95.1",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/879/zeta-fm.feb3fb70.png",
-    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/170e337e-a9eb-4ea2-aeb7-34d2f0c69b29/ts:abr.m3u8"
-  },
-
-    {
+  {
     "name": "Radio María 100.7 FM",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/ZhZu8hqVMP.jpg",
     "streamURL": "https://dreamsiteradiocp2.com/proxy/rmcostarica?mp=/stream/1/"
   },
 
-    {
+
+  {
     "name": "Super Radio 102.3 FM",
     "logoURL": "https://static.mytuner.mobi/media/radios-150px/gvujczqzwusy.png",
     "streamURL": "http://superradio.rtvhd.net:8010/;"
   },
 
-    {
+
+  {
     "name": "Unción 106.7 FM",
     "logoURL": "https://static.mytuner.mobi/media/radios-150px/cc2pbyafwpm5.jpg",
     "streamURL": "https://centova.hostingtico.com:7016/;"
   },
+  
 
-    {
-    "name": "Best FM 103.5",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/368/best-fm2.f7005ade.png",
-    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/40c7012d-8010-4d20-a44b-b0a778ae37fd/ts:abr.m3u8"
-  },
-
-    {
+  {
     "name": "88 Stereo 88.7 FM",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/6HpPGZPUS4.jpg",
     "streamURL": "https://stream.zeno.fm/h9vuh859bm8uv"
   },
 
-    {
+  {
     "name": "IQ 97.9 FM",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/y2z6ngbnd4ml.png",
     "streamURL": "http://rtvhd.net:9942/;"
@@ -208,28 +217,60 @@
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/nAwNLxJbnm.png",
     "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac"
   },
+ 
 
   {
-    "name": "Life FM 89.5",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/KSrHUJryEt.png",
-    "streamURL": "https://radio.zarza.com/proxy/life?mp=/stream"
-  },
-
-  {
-    "name": "Radio Hit 104.7 FM",
-    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/164/radio-hit-1047-fm.1180f4a3.jpg",
-    "streamURL": "https://live.turadio.stream:7004/;"
-  },
-
-   {
     "name": "Extra Radio 92.3 FM",
     "logoURL": "https://static.mytuner.mobi/media/tvos_radios/265/extra-radio-923-fm.e7e601cf.png",
     "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/ts:abr.m3u8"
   },
 
+
   {
-    "name": "Cultural La Cruz 88.3 FM",
-    "logoURL": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-01/radio-la-cruz-costa-rica.png.webp?itok=qTOohmka",
-    "streamURL": "https://stream.zeno.fm/94w225fnha0uv"
+    "name": "Stereo Visio 98.3 FM",
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/LEBrBBD7xc.png",
+    "streamURL": "https://live.turadio.stream:9984/stream"
+  },
+
+
+  {
+    "name": "Columbia 98.7 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/EYDaxpE6Q4.png",
+    "streamURL": "https://s2.radio.co/s83b86382e/listen"
+  }, 
+
+
+  {
+    "name": "Exa 102.7 FM",
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/377/exa-cr.35a1dae5.jpg",
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/f8e910c4-1dfa-48bf-95e9-345d1a2f7097/ts:abr.m3u8"
+  },
+
+
+  {
+    "name": "La mejor 99.1 FM",
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/575/la-mejor-991.95c72890.png",
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/d1dafe77-1b43-4143-9c6a-f4fb6ab42b60/ts:abr.m3u8"
+  },
+
+
+  {
+    "name": "Zeta FM 95.1",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/879/zeta-fm.feb3fb70.png",
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/170e337e-a9eb-4ea2-aeb7-34d2f0c69b29/ts:abr.m3u8"
+  },
+
+
+  {
+    "name": "Best FM 103.5",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/368/best-fm2.f7005ade.png",
+    "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/40c7012d-8010-4d20-a44b-b0a778ae37fd/ts:abr.m3u8"
+  },
+  
+
+  {
+    "name": "CRC 89.1FM",
+    "logoURL": "https://mmo.aiircdn.com/943/63d05efc1bbc6.png",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac"
   }
 ]
