@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "🔴 Marca",
+    "name": "🔴 Atletico Madrid vs Club Brugge",
     "logoURL": "https://www.radio.es/300/radiomarcanacional.jpeg",
     "streamURL": "https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream"
   },
@@ -80,6 +80,18 @@
     "name": "Paraiso 530 AM",
     "logoURL": "https://radioparaisoformatos.com/wp-content/uploads/2023/04/cropped-logo-1.png",
     "streamURL": "https://rtmp.info/paraisoformatostv/paraisotv.stream/playlist.m3u8"
+  },
+
+  {
+    "name": "95.5 Jazz FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/JqktDaBETX.png",
+    "streamURL": "https://streaming.radio.co/s36bd2a451/listen"
+  },
+
+  {
+    "name": "Planet 107.5 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/dunrcgprysl4.jpeg",
+    "streamURL": "https://stream20.usastreams.com/8094/stream"
   },
 
   {
