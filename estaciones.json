@@ -69,6 +69,24 @@
     "logoURL": "https://scontent.fsyq8-1.fna.fbcdn.net/v/t39.30808-6/344843366_563476815869915_7298411395202783507_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=4C5mrpAbsTwQ7kNvwE4blk0&_nc_oc=Adkc_mhgNA1d0ZszSY-GekrXcA79HsWbxU8ElxDAEQs3AVeMIy_hZn8m6xauhw2c6UQ&_nc_zt=23&_nc_ht=scontent.fsyq8-1.fna&_nc_gid=ItK9hS1wfwK9qV8yxzjvPA&oh=00_Afu-sJ-M8LoCE-JwkvqtsXT25utRB57bM8Se7KIVEOLGnA&oe=69A2CD31",
     "streamURL": "https://c60.letio.com/ShoutcastProxy.ashx?ids=8124"
   },
+
+  {
+    "name": "Cartago 87.9 FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/gGNYNaWK6W.jpg",
+    "streamURL": "https://s3.voscast.com/cdn/?k=699d0d0e70e9e&m=;stream1771900174709/1"
+  },
+
+  {
+    "name": "Paraiso 530 AM",
+    "logoURL": "https://radioparaisoformatos.com/wp-content/uploads/2023/04/cropped-logo-1.png",
+    "streamURL": "https://rtmp.info/paraisoformatostv/paraisotv.stream/playlist.m3u8"
+  },
+
+  {
+    "name": "Más Vida FM",
+    "logoURL": "https://static.mytuner.mobi/media/tvos_radios/089/mas-vida-fm.357b040f.jpg",
+    "streamURL": "https://stream.zeno.fm/hi3mauhvwexvv"
+  },
   
   
   {
@@ -251,13 +269,23 @@
     "streamURL": "https://d2qsan2ut81n2k.cloudfront.net/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/ts:abr.m3u8"
   },
 
+  {
+    "name": "Impact 91.1 FM",
+    "logoURL": "https://play-lh.googleusercontent.com/xNDlNZS9jHZQULm-OgmaFnSs0fHPMxpA2rCE3Xk_nHrKQ6IEXTAd-3lgh7dWTwd5jNV2ZkE-T1VJ0JZAawjc=w240-h480-rw",
+    "streamURL": "https://streamingcwsradio30.com:7169/stream"
+  },
 
   {
-    "name": "Stereo Visio 98.3 FM",
+    "name": "Stereo Vision 98.3 FM",
     "logoURL": "https://static.mytuner.mobi/media/radios-150px/LEBrBBD7xc.png",
     "streamURL": "https://live.turadio.stream:9984/stream"
   },
 
+  {
+    "name": "Pura Vida 106.3 FM",
+    "logoURL": "https://www.puravidafm.cr/assets/logo-Bk9GOkRY.png",
+    "streamURL": "https://live.turadio.stream:7008/;"
+  },
 
   {
     "name": "Monumental 93.5 FM",
